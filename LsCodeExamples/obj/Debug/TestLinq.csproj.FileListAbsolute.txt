@@ -1,0 +1,9 @@
+C:\PERSONALE\Linq\TestLinq\TestLinq\bin\Debug\TestLinq.exe.config
+C:\PERSONALE\Linq\TestLinq\TestLinq\bin\Debug\TestLinq.exe
+C:\PERSONALE\Linq\TestLinq\TestLinq\bin\Debug\TestLinq.pdb
+C:\PERSONALE\Linq\TestLinq\TestLinq\obj\Debug\TestLinq.csprojResolveAssemblyReference.cache
+C:\PERSONALE\Linq\TestLinq\TestLinq\obj\Debug\TestLinq.exe
+C:\PERSONALE\Linq\TestLinq\TestLinq\obj\Debug\TestLinq.pdb
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\bin\Debug\TestLinq.exe.config
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\obj\Debug\TestLinq.exe
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\obj\Debug\TestLinq.pdb

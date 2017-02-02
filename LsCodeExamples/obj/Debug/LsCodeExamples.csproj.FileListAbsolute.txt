@@ -1,0 +1,11 @@
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\bin\Debug\LsCodeExamples.exe.config
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\bin\Debug\LsCodeExamples.exe
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\bin\Debug\LsCodeExamples.pdb
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\obj\Debug\LsCodeExamples.exe
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\TestLinq\obj\Debug\LsCodeExamples.pdb
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\bin\Debug\LsCodeExamples.exe.config
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\obj\Debug\LsCodeExamples.exe
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\obj\Debug\LsCodeExamples.pdb
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\bin\Debug\LsCodeExamples.exe
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\bin\Debug\LsCodeExamples.pdb
+C:\PERSONALE\Linq\LSCodeExamples\LsCodeExamples\LsCodeExamples\obj\Debug\LsCodeExamples.csprojResolveAssemblyReference.cache
